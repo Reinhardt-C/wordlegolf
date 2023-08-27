@@ -2,4 +2,5 @@ A repository containing my attempts at finding upper bounds for the [Kolmogorov 
 See [Golf Horse](http://golf.horse/wordle/) for more info, specifications, and other peoples' solutions..
 
 Attempts:
+
 [1_decode.js](https://github.com/Reinhardt-C/wordlegolf/blob/main/1_decode.js) - 64795 bytes
