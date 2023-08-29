@@ -3,4 +3,5 @@ See [Golf Horse](http://golf.horse/wordle/) for more info, specifications, and o
 
 Attempts:
 
-[1_decode.js](https://github.com/Reinhardt-C/wordlegolf/blob/main/1_decode.js) - 64797 bytes
+[1_decode.js](https://github.com/Reinhardt-C/wordlegolf/blob/main/1_decode.js) - 64795 bytes
+[2_decode.js](https://github.com/Reinhardt-C/wordlegolf/blob/main/2_decode.js) - 40584 bytes
